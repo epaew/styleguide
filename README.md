@@ -4,3 +4,6 @@
 ## 対応言語と Linter/Formatter の一覧
 - [Ruby](ruby/README.md)
   - RuboCop
+- [ECMAScript/TypeScript](typescript/README.md)
+  - ESLint
+  - Prettier
