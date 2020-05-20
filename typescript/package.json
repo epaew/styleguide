@@ -1,0 +1,31 @@
+{
+  "name": "@timedia/eslint-config",
+  "version": "0.1.0",
+  "description": "Default ESLint configurations for TIMEINTERMEDIA, Inc.",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config"
+  ],
+  "homepage": "https://github.com/timedia/styleguide",
+  "repository": "git@github.com:timedia/styleguide.git",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "rules/*"
+  ],
+  "dependencies": {
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-prettier": "^3.1.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "prettier": "^2.0.5"
+  },
+  "peerDependencies": {
+    "eslint": "^7.0.0",
+    "prettier": "^2.0.5"
+  }
+}
