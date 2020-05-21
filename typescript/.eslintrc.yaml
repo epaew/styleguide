@@ -3,4 +3,4 @@ root: true
 env:
   commonjs: true
 extends:
-  - ./index.js
+  - ./react.js
