@@ -3,4 +3,5 @@ root: true
 env:
   commonjs: true
 extends:
+  - ./typescript.js
   - ./react.js
